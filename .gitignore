@@ -1,5 +1,8 @@
 
 .DS_Store
 .gitattributes
-2015_Street_Tree_Census_-_Tree_Data.csv
-Borough Boundaries/
+
+*data/2015_Street_Tree_Census_-_Tree_Data.csv
+
+# ipython/jupyter notebooks
+**notebooks/.ipynb_checkpoints/
